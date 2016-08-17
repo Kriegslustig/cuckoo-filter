@@ -1,4 +1,4 @@
-# Reading Notes on [Cuckoo-Filters](https://www.cs.cmu.edu/~dga/papers/cuckoo-conext2014.pdf)
+# Reading Notes on [Cuckoo Filters](https://www.cs.cmu.edu/~dga/papers/cuckoo-conext2014.pdf)
 
 _All algorithms copied from [the original paper](https://www.cs.cmu.edu/~dga/papers/cuckoo-conext2014.pdf)._
 
